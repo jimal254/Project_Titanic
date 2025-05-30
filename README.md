@@ -101,7 +101,7 @@ git checkout Diana-Presentation
 ```
 ## Useful Links
 
-Tableau
+**Tableau**
 https://public.tableau.com/app/profile/mathews.odongo/viz/titanic_project_17486184752920/Dashboard1
 
 Titanic dataset on Kaggle:
