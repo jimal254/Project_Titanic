@@ -101,11 +101,16 @@ git checkout Diana-Presentation
 ```
 ## Useful Links
 
+Tableau
+https://public.tableau.com/app/profile/mathews.odongo/viz/titanic_project_17486184752920/Dashboard1
+
 Titanic dataset on Kaggle:
 https://www.kaggle.com/competitions/titanic/data
 
 View notebooks using nbviewer:
 https://nbviewer.org/
+
+
 
 
 ### 📚 Collaborators  
