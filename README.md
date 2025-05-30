@@ -108,10 +108,8 @@ https://public.tableau.com/app/profile/mathews.odongo/viz/titanic_project_174861
 Titanic dataset on Kaggle:
 https://www.kaggle.com/competitions/titanic/data
 
-View notebooks using nbviewer:
-https://nbviewer.org/
 
-### 📚 Collaborators  
+## Collaborators  
 This project was developed collaboratively by:
 
 - **Frankline Ondieki** ([email](mailto:ondiekifrank021@gmail.com)) | [LinkedIn](https://www.linkedin.com/in/frankline-ondieki-39a61828a/)
