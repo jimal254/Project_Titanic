@@ -4,7 +4,7 @@
 
 ## Project Overview
 
-This project explores the Titanic dataset with the objective of analyzing the key factors that influenced passenger survival during the tragic RMS Titanic shipwreck. The dataset provides details such as passenger class, age, gender, fare, and other features.
+This project explores the Titanic dataset to analyze the key factors that influenced passenger survival during the tragic RMS Titanic shipwreck. The dataset provides details such as passenger class, age, gender, fare, and other features.
 
 Our goal was to perform a comprehensive data analysis and apply various statistical methods, including:
 
@@ -46,7 +46,7 @@ To set up the project locally, follow the instructions below.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/OndiekiFrank/Project_Titanic.git
+git clone https://github.com/jimal254/Project_Titanic.git
 ```
 ```bash
 cd Project_Titanic
@@ -97,7 +97,7 @@ We used Git and GitHub to manage collaboration. Important branches include:
 To switch to a branch:
 
 ```bash
-git checkout Diana-Presentation
+git checkout Presentation
 ```
 ## Useful Links
 
@@ -107,19 +107,6 @@ https://public.tableau.com/app/profile/mathews.odongo/viz/titanic_project_174861
 
 Titanic dataset on Kaggle:
 https://www.kaggle.com/competitions/titanic/data
-
-
-## Collaborators  
-This project was developed collaboratively by:
-
-- **Frankline Ondieki** ([email](mailto:ondiekifrank021@gmail.com)) | [LinkedIn](https://www.linkedin.com/in/frankline-ondieki-39a61828a/)
-- **Pacificah Kwamboka Asamba** ([email](mailto:sikamboga1@gmail.com)) | [LinkedIn](https://www.linkedin.com/in/pacificah-omboga-42959b83/)
-- **Diana Macharia** ([email](mailto:hellendiana091@gmail.com)) | [LinkedIn](https://www.linkedin.com/in/hellen-diana-njeri)
-- **Mathews Odongo** ([email](mailto:wandera59@gmail.com)) | [LinkedIn](https://www.linkedin.com/in/mathews-odongo-9a2541368?trk=contact-info)
-- **Nightingale Jeptoo** ([email](mailto:nightingalemib@gmail.com)) | [LinkedIn](https://www.linkedin.com/in/jeptoo-nightingale-36131741/)
-- **Tinah Ngei** ([email](mailto:tinahngei@gmail.com)) | [LinkedIn](https://www.linkedin.com/in/tinah-ngei-4b411386/)
-
-We worked together as a team during the **Moringa School Phase 2 group project** to apply theoretical knowledge in a practical data science scenario.
 
 ## License
  **None**
