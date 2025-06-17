@@ -4,7 +4,7 @@
 
 ## Project Overview
 
-This project explores the Titanic dataset with the objective of analyzing the key factors that influenced passenger survival during the tragic RMS Titanic shipwreck. The dataset provides details such as passenger class, age, gender, fare, and other features.
+This project explores the Titanic dataset to analyze the key factors that influenced passenger survival during the tragic RMS Titanic shipwreck. The dataset provides details such as passenger class, age, gender, fare, and other features.
 
 Our goal was to perform a comprehensive data analysis and apply various statistical methods, including:
 
@@ -46,7 +46,7 @@ To set up the project locally, follow the instructions below.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/OndiekiFrank/Project_Titanic.git
+git clone https://github.com/jimal254/Project_Titanic.git
 ```
 ```bash
 cd Project_Titanic
@@ -97,7 +97,7 @@ We used Git and GitHub to manage collaboration. Important branches include:
 To switch to a branch:
 
 ```bash
-git checkout Diana-Presentation
+git checkout 
 ```
 ## Useful Links
 
@@ -124,6 +124,5 @@ We worked together as a team during the **Moringa School Phase 2 group project**
 ## License
  **None**
  
-This project is intended for academic and educational purposes only.
 
 
